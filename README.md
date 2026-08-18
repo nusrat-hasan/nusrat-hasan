@@ -68,15 +68,30 @@
 ---
 
 ### 📊 GitHub Analytics
+</table>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nusrat-hasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusrat-hasan&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nusrat-hasan&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center" style="display: flex; justify-content: center; gap: 12px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nusrat-hasan&theme=tokyonight" height="140" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nusrat-hasan&theme=tokyonight" height="140" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nusrat-hasan&theme=tokyonight&hide_border=true" width="97%" alt="Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app?username=nusrat-hasan&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
 </p>
 
+---
+
+
+### 👾 Activity Graph
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f5d4,7b2cbf,ff007f&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nusrat-hasan/nusrat-hasan/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nusrat-hasan/nusrat-hasan/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nusrat-hasan/nusrat-hasan/output/pacman-contribution-graph-dark.svg">
+  </picture>
 </p>
