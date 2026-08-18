@@ -1,41 +1,47 @@
-# nusrat-hassan
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Nusrat+Hassan" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f5d4,7b2cbf,ff007f&height=240&section=header&text=NUSRAT%20HASSAN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=ASPIRING%20AI%20ENGINEER%20%7C%20SOFTWARE%20RESEARCHER&descFontSize=18&descAlignY=58&descColor=00f5d4&animation=fadeIn" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=1200&color=00F5D4&background=00121900&center=true&vCenter=true&width=850&lines=Aspiring+AI+Engineer+%26+Software+Researcher+🚀;Turning+Ideas+into+Reality+🌟" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Nusrat+Hassan;Aspiring+AI+Engineer+%26+Software+Researcher+🚀;Turning+Ideas+into+Reality+🌟" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="coding" width="380" src="https://img.freepik.com/premium-photo/web-developer-mascot-company-logo-line-art-generative-ai_934475-12202.jpg" />
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nusrat-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnusrat-hassan&count_bg=%237B2CBF&title_bg=%231E1E2E&icon=github.svg&icon_color=%2300F5D4&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views" />
 </p>
 
-- 🌱 I’m currently studying at **Daffodil International University**.
-- 👨‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/nusrat-hasan-ab2330266/).
-- 💬 Ask me about **Machine Learning, Data Analytics, AWS, Data Entry, Data Collection, MS Office, Basic Graphic Design**
+
+
+### 🚀 About Me
+- 🌱 Graduated From **Daffodil International University**.
+- 💡 Research & Interests: **Machine Learning, Deep Learning, Computer Vision & Data Analytics**.
+- 💬 Ask me about: **Machine Learning, AWS, Python, Data Entry, Power BI & Sys Design**.
 - 📫 How to reach me: **nhitushi24@gmail.com** or **hasan22205341199@diu.edu.bd**
 
+
 ---
 
-### Connect with me:
+<h3 align="left">🌐 Connect With Me</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nusrat-hasan-ab2330266/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
-  <a href="mailto:nhitushi24@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /></a>
-  <a href="https://github.com/nusrat-hassan"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/nusrat-hasan-ab2330266/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:nhitushi24@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/nusrat-hassan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
+  </a>
 </p>
-
 ---
-
 ### 🛠️ Skills & Technologies
 <table>
   <tr>
     <td><b>💻 Programming Languages</b></td>
     <td>
-      <img height="32" src="https://skillicons.dev/icons?i=cpp,python,java,javascript,php" alt="Languages" />
+      <img height="32" src="https://skillicons.dev/icons?i=python,cpp,java,javascript,php" alt="Languages" />
     </td>
   </tr>
   <tr>
@@ -60,16 +66,17 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nusrat-hassan&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nusrat-hassan&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app?username=nusrat-hassan&theme=tokyonight&no-bg=true&no-frame=true&column=3" width="48%" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nusrat-hassan&theme=tokyonight" height="140" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nusrat-hassan&theme=tokyonight" height="140" alt="Commit Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nusrat-hassan&theme=tokyonight" height="145" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nusrat-hassan&theme=tokyonight" height="145" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=nusrat-hassan&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy Graph" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f5d4,7b2cbf,ff007f&height=100&section=footer" width="100%" alt="Footer Banner" />
 </p>
