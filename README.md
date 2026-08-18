@@ -5,10 +5,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Nusrat+Hasan;Aspiring+AI+Engineer+%26+Software+Researcher+🚀;Turning+Ideas+into+Reality+🌟" alt="Typing SVG" />
 </p>
+</div>
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-photo/web-developer-mascot-company-logo-line-art-generative-ai_934475-12202.jpg">
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnusrat-hasan&count_bg=%237B2CBF&title_bg=%231E1E2E&icon=github.svg&icon_color=%2300F5D4&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nusrat-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="nusrat-hasan" /> </p>
+
+
 
 ---
 
