@@ -6,21 +6,29 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Nusrat+Hasan;Aspiring+AI+Engineer+%26+Software+Researcher+🚀;Turning+Ideas+into+Reality+🌟" alt="Typing SVG" />
 </p>
 </div>
-<img align="right" alt="Developer Illustration" width="240" style="border-radius: 12px; margin-left: 20px;" src="https://raw.githubusercontent.com/nusrat-hasan/nusrat-hasan/main/profile-art.png.jfif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusrat-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="nusrat-hasan" /> </p>
 
-
-
 ---
+<table border="0" style="border: none; background: transparent; width: 100%;">
+  <tr style="border: none; background: transparent;">
+    <td width="70%" valign="top" style="border: none; background: transparent; padding-right: 15px;">
 
 ### 🚀 About Me
 - 🌱 Graduated From **Daffodil International University**.
 - 💡 Research & Interests: **Machine Learning, Deep Learning, Computer Vision & Data Analytics**.
 - 💬 Ask me about: **Machine Learning, AWS, Python, Data Entry, Power BI & System Design**.
-- 📫 How to reach me: **nhitushi24@gmail.com**
+- 📫 How to reach me: [nhitushi24@gmail.com](mailto:nhitushi24@gmail.com)
 
----
+   </td>
+   <td width="30%" align="center" valign="middle" style="border: none; background: transparent;">
+      <a href="https://github.com/nusrat-hasan">
+        <img src="https://raw.githubusercontent.com/nusrat-hasan/nusrat-hasan/main/profile-art.png.jfif" style="width: 100%; height: auto; display: block; max-width: 100%; border-radius: 20px; box-shadow: 0px 0px 15px #00F5D4;" alt="Nusrat Hasan" />
+      </a>
+   </td>
+  </tr>
+</table>
+
 
 <h3 align="left">🌐 Connect With Me</h3>
 <p align="left">
