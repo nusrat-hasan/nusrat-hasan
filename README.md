@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Nusrat+Hasan;Aspiring+AI+Engineer+%26+Software+Researcher+🚀;Turning+Ideas+into+Reality+🌟" alt="Typing SVG" />
 </p>
 </div>
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-photo/web-developer-mascot-company-logo-line-art-generative-ai_934475-12202.jpg">
+<img align="right" alt="Developer Illustration" width="240" style="border-radius: 12px; margin-left: 20px;" src="https://raw.githubusercontent.com/nusrat-hasan/nusrat-hasan/main/profile-art.png.jfif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusrat-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="nusrat-hasan" /> </p>
 
